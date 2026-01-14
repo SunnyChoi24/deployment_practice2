@@ -1,4 +1,0 @@
-google.genai as genai
-pillow
-streamlit
-python-dotenv
